@@ -28,7 +28,12 @@ body {
 
 }
 
- 
+.imagecontainer {
+
+    Width: 50%;
+    Margin: 20px auto;
+    padding: 20px;
+}
 
 header {
 
